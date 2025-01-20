@@ -44,25 +44,26 @@ This repository lists some of the top AI agent projects available on GitHub. It 
 
 ## AI for Specific Domains
 
-| Use Case                                    | Industry         | Description                                              | Link                                                           |
+| Use Case                                    | Industry / Domain| Description                                              | Link                                                           |
 | ------------------------------------------- | ---------------- | -------------------------------------------------------- | ----------------------------------------------------------------------|
-| 24/7 AI Chatbot                             | Customer Service | Handles customer queries around the clock.               | [Link](https://github.com/your-repo-url) |
-| AI health assistant                         | Healthcare       | Diagnoses and monitors diseases using patient data.      | [Link](https://github.com/your-repo-url) |
-| Property pricing agent                      | Real Estate      | Analyzes market trends to determine property prices.     | [Link](https://github.com/your-repo-url) |
-| Factory process monitoring agent            | Manufacturing    | Monitors production lines and ensures quality control.   | [Link](https://github.com/your-repo-url) |
-| Virtual AI tutor                            | Education        | Provides personalized education tailored to users.       | [Link](https://github.com/your-repo-url) |
-| Automated trading bot                       | Finance          | Automates stock trading with real-time market analysis.  | [Link](https://github.com/your-repo-url) |
-| Content personalization agent               | Entertainment    | Recommends personalized media based on preferences.      | [Link](https://github.com/your-repo-url) |
-| Recruitment recommendation agent            | Human Resources  | Suggests best-fit candidates for job openings.           | [Link](https://github.com/your-repo-url) |
-| Self-driving delivery agent                 | Transportation   | Optimizes routes and autonomously delivers packages.     | [Link](https://github.com/your-repo-url) |
-| Smart farming assistant                     | Agriculture      | Provides insights on crop health and yield predictions.  | [Link](https://github.com/your-repo-url) |
-| Legal document review assistant             | Legal            | Automates document review and highlights key clauses.    | [Link](https://github.com/your-repo-url) |
-| Logistics optimization agent                | Supply Chain     | Plans efficient delivery routes and manages inventory.   | [Link](https://github.com/your-repo-url) |
-| Energy demand forecasting agent             | Energy           | Predicts energy usage to optimize grid management.       | [Link](https://github.com/your-repo-url) |
-| E-commerce personal shopper agent           | E-commerce       | Helps customers find products they’ll love.              | [Link](https://github.com/your-repo-url) |
-| Virtual travel assistant                    | Hospitality      | Plans travel itineraries based on preferences.           | [Link](https://github.com/your-repo-url) |
-| AI game companion agent                     | Gaming           | Enhances player experience with real-time assistance.    | [Link](https://github.com/your-repo-url) |
-| Real-time threat detection agent            | Cybersecurity    | Identifies potential threats and mitigates attacks.      | [Link](https://github.com/your-repo-url) |
+| 24/7 AI Chatbot                             | Customer Service | Handles customer queries 24/7/365                        | [Link](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb) |
+| AI health assistant                         | Healthcare       | Diagnoses and monitors diseases                          | [Link](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics) |
+| Real estate agent                           | Real Estate      | Analyzes market trends to determine real estate prices   | [Link](https://github.com/AleksNeStu/ai-real-estate-assistant) |
+| Industrial automation agent                 | Manufacturing    | Monitors production lines and ensures quality            | [Link](https://github.com/yuchenxia/llm4ias) |
+| Virtual tutor                               | Education        | Provides personalized education                          | [Link](https://github.com/hqanhh/EduGPT) |
+| Automated trading bot                       | Finance          | Automates stock trading with real-time analysis.         | [Link](https://github.com/MingyuJ666/Stockagent) |
+| Content personalization agent               | Entertainment    | Recommends personalized media content                    | [Link](https://github.com/crosleythomas/MirrorGPT) |
+| Job recommendation agent                    | Human Resources  | Suggests best-fit candidates for job openings.           | [Link](https://github.com/sentient-engineering/jobber) |
+| Self-driving delivery agent                 | Transportation   | Optimizes routes and autonomously delivers packages.     | [Link](https://github.com/sled-group/driVLMe) |
+| Smart farming assistant                     | Agriculture      | Provides insights on crop health and yield predictions.  | [Link](https://github.com/mohammed97ashraf/LLM_Agri_Bot) |
+| Legal document review assistant             | Legal            | Automates document review and highlights key clauses.    | [Link](https://github.com/firica/legalai) |
+| Supply Chain optimization agent             | Supply Chain     | Plans efficient delivery routes and manages inventory.   | [Link](https://github.com/microsoft/OptiGuide) |
+| Event forecasting agent                     | Politics         | Predicts global events                                   | [Link](https://github.com/yecchen/MIRAI) |
+| Shopping agent                              | E-commerce       | Helps customers find products they’ll love.              | [Link](https://github.com/Hoanganhvu123/ShoppingGPT) |
+| AI travel assistant                         | Hospitality      | Plans travel itineraries based on preferences.           | [Link](https://github.com/nirbar1985/ai-travel-agent) |
+| AI game companion agent                     | Gaming           | Enhances player experience with real-time assistance.    | [Link](https://github.com/onjas-buidl/LLM-agent-game) |
+| Real-time threat detection agent            | Cybersecurity    | Identifies potential threats and mitigates attacks.      | [Link](https://github.com/NVISOsecurity/cyber-security-llm-agents) |
+| Recommender agent                           | Retail           | Suggests best product recommendation                     | [Link](https://github.com/microsoft/RecAI) |
 
 ## Game AI Agents
 
