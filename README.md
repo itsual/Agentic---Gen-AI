@@ -29,6 +29,7 @@ This repository lists some of the top AI agent projects available on GitHub. It 
 | 🧩 griptape | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. | [griptape](https://github.com/griptape-ai/griptape) |
 | 🧬 atomic-agents | Building AI agents, atomically | [atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
 | 🖥️ Cradle | The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements. | [Cradle](https://github.com/BAAI-Agents/Cradle) |
+| ⚙️ Cline | Cline – An open-source AI coding agent giving developers direct access to frontier models with complete transparency. | [Cline](https://github.com/cline/cline) |
 
 ## AI Tools and Applications
 
